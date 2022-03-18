@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anirudh-2003
+- 👋 Hi, I’m ANIRUDHH RAJE BHOSLE
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 - 📫 How to reach me ?
