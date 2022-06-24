@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ANIRUDH RAJE BHOSLE
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me ?
 - 1) Gmail-> anirudh.bhosle2003@gmail.com
 - 2) Twitter-> bhosle_anirudh
