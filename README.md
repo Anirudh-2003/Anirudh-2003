@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ANIRUDH RAJE BHOSLE
+- 👋 Hi, I’m Anirudh Raje Bhosle
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me ?
