@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anirudh Raje Bhosle
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA, Android Development
 - 📫 How to reach me ?
 - 1) Gmail-> anirudh.bhosle2003@gmail.com
 - 2) Twitter-> bhosle_anirudh
